@@ -1,0 +1,7 @@
+tempC {"temperature":20}
+tempC {"temperature":20}
+tempC {"temperature":27}
+tempC {"temperature":38}
+tempC {"temperature":7}
+tempC {"temperature":10}
+tempC {"temperature":11}
